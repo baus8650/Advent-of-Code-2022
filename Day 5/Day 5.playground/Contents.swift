@@ -64,5 +64,5 @@ let finalOrientationPartTwo = "\(storageDictTwo["1"]!.last!)\(storageDictTwo["2"
 
 print("""
 Part One: \(finalOrientationPartOne)
-Part Two: \(finalOrientationPartTwo)
+Part Two: \(finalOrientationPartTwo )
 """)
